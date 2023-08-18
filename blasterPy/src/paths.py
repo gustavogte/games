@@ -1,0 +1,10 @@
+icon_img = "img/icon.png"
+spaceship_img = "img/spaceship.png"
+background_img = "img/Space Background.png"
+laser_img = "img/bullet.png"
+laser_sound = "music/laser.wav"
+blast_sound = "music/blast.wav"
+available_bullet_img = "img/available_bullet.png"
+asteroid_imgs = [f"img/asteroid{i}.png" for i in range(4)]
+blast_imgs = [f"img/explosion{i}.png" for i in range(3)]
+font_path = "fonts/minecraft.ttf"
